@@ -73,6 +73,38 @@ A computer vision system that detects potholes from **images and videos** using 
 
 **Tech Used:** Python, YOLO, OpenCV, Deep Learning
 
+### GYM member and attendence management system 
+A modern **Gym Management System** built to simplify member management, attendance tracking, and daily gym operations.
+This project focuses on clean UI, smooth user experience, and scalability.
+
+**Tech used**  
+backend: Supabase for => auth =>database =>storage  
+Frontend: React + TypeScript
+Build Tool: Vite
+Styling: Tailwind CSS
+UI Components: shadcn-ui
+Version Control: Git & GitHub
+
+
+---
+
+###🚀 Live Demo
+
+🔗 **Live URL**: https://gym-flow-pro.netlify.app/
+
+
+### 📊 **Data Analysis & ML Projects**
+- End-to-end data preprocessing
+- Feature engineering & visualization
+- Machine learning model training & evaluation
+- Dashboard deployment using **Streamlit**
+
+
+###Dr. Charaka – AI Healthcare Assistant
+An intelligent medical consultation platform that can be considered a breakthrough in healthcare accessibility. This AI-powered chatbot assists healthcare professionals by providing instant medical insights, generating comprehensive PDF reports, and integrating seamlessly with WhatsApp for enhanced communication. Built with Django for robust backend architecture, Streamlit for interactive interfaces, and leveraging advanced language models for medical query processing.
+
+Key Technologies: Django, Large Language Models, Streamlit, SQLite, WhatsApp API, Pandas, Matplotlib
+
 ---
 
 ## 📚 Currently Learning
