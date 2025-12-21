@@ -100,7 +100,7 @@ Version Control: Git & GitHub
 - Dashboard deployment using **Streamlit**
 
 
-###Dr. Charaka – AI Healthcare Assistant
+### Dr. Charaka – AI Healthcare Assistant
 An intelligent medical consultation platform that can be considered a breakthrough in healthcare accessibility. This AI-powered chatbot assists healthcare professionals by providing instant medical insights, generating comprehensive PDF reports, and integrating seamlessly with WhatsApp for enhanced communication. Built with Django for robust backend architecture, Streamlit for interactive interfaces, and leveraging advanced language models for medical query processing.
 
 Key Technologies: Django, Large Language Models, Streamlit, SQLite, WhatsApp API, Pandas, Matplotlib
