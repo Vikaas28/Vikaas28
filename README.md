@@ -3,45 +3,87 @@
 
 # Vikas Sahu
 
-### AI Engineer · Machine Learning · Full-Stack Development
+### AI / ML Engineer | Computer Vision | Generative AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Computer+Vision+%7C+Generative+AI;RAG+%7C+LLMs+%7C+Intelligent+Analytics;Turning+real-world+problems+into+software" alt="Animated introduction" />
+Building intelligent applications by combining machine learning, backend engineering, and modern web technologies.
 
 <p>
   <a href="https://github.com/Vikaas28">
-    <img src="https://img.shields.io/badge/GitHub-Vikaas28-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Vikaas28-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-2563eb?style=for-the-badge" alt="AI Engineering"/>
-  <img src="https://img.shields.io/badge/Building-Intelligent%20Systems-7c3aed?style=for-the-badge" alt="Intelligent Systems"/>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Vikaas28&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-2563eb?style=flat-square" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/Interests-Generative%20AI-7c3aed?style=flat-square" alt="Generative AI"/>
+  <img src="https://komarev.com/ghpvc/?username=Vikaas28&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Computer Science Engineering student and developer passionate about building **AI-powered systems and full-stack applications** that solve real-world problems.
+I'm a Computer Science Engineering student focused on **AI engineering, machine learning, computer vision, and full-stack development**.
 
-My interests span Computer Vision, Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and cloud-native application development.
+I enjoy building practical software that connects AI models with reliable APIs, intuitive interfaces, and data-driven workflows. My interests include computer vision, large language models, retrieval-augmented generation (RAG), and deploying AI applications.
 
-I enjoy connecting intelligent models with practical software engineering — from data processing and model inference to APIs, dashboards, and scalable applications.
+- Developing computer vision solutions for real-world problems.
+- Exploring LLMs, RAG pipelines, embeddings, and semantic search.
+- Building AI-powered APIs and full-stack applications.
+- Working with Python, SQL, REST APIs, and modern web technologies.
+- Exploring cloud deployment, Docker, and production-oriented AI systems.
 
-- 🧠 Exploring LLMs, RAG pipelines, and intelligent agents
-- 👁️ Building Computer Vision systems for real-world environments
-- 🏗️ Developing full-stack applications and AI-powered backends
-- ☁️ Learning AWS, Docker, MLOps, and model deployment
-- 🎯 Focused on writing useful, maintainable, production-oriented software
+**Core interests:** Applied AI · Computer Vision · Generative AI · Backend Engineering · Intelligent Analytics
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛣️ Pothole Detection System
+
+**Computer Vision for Road Infrastructure**
+
+An AI-powered application that detects potholes in road images using deep learning and exposes detection functionality through a hosted REST API.
+
+**Key features**
+- YOLO-based pothole detection.
+- Bounding-box coordinates and confidence scores.
+- GPS metadata and trip information support.
+- FastAPI-based inference endpoint.
+- Cloud-hosted API for integration and testing.
+
+**Technologies**
+
+`Python` `YOLO` `OpenCV` `FastAPI` `NumPy`
+
+**Links:** [Source Code](https://github.com/Vikaas28/pothole_detection_api) · [Hosted API](https://vikaas18-vmc.hf.space) · [API Docs](https://vikaas18-vmc.hf.space/docs)
+
+</td>
+<td width="50%" valign="top">
+
+### ♻️ Smart Waste Monitoring
+
+**AI for Smart-City Infrastructure**
+
+A computer vision project designed to monitor waste-disposal activity and support civic infrastructure monitoring.
+
+**Key features**
+- YOLO-based object detection.
+- Multi-object tracking for video analysis.
+- Detection evidence and monitoring workflows.
+- Potential integration with civic dashboards.
+
+**Technologies**
+
+`Python` `YOLOv8` `OpenCV` `MediaPipe` `ByteTrack`
+
+**Repository:** [NagarSeva](https://github.com/vivek1504/NagarSeva)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -49,65 +91,35 @@ I enjoy connecting intelligent models with practical software engineering — fr
 
 **AI-Powered Healthcare Assistant**
 
-A healthcare platform designed to provide symptom analysis, drug-interaction checking, medical guidance, and accessible health information.
+A healthcare application concept focused on making health information and AI-assisted guidance more accessible.
 
-**Highlights**
-- LLM-powered healthcare assistance
-- Unified web-based healthcare workflows
-- Structured medical information access
+**Project focus**
+- AI-assisted health information workflows.
+- Web-based healthcare interactions.
+- Structured access to relevant health information.
+
+**Technologies**
 
 `Python` `Django` `LLMs` `SQLite`
 
 </td>
 <td width="50%" valign="top">
 
-### ♻️ Smart Waste Monitoring
+### 🧠 NovaCart Intelligence
 
-**Computer Vision for Civic Infrastructure**
+**Hybrid AI Business Intelligence Assistant**
 
-A smart-city monitoring system designed to detect suspicious waste-disposal events using CCTV video and computer vision.
+An AI analytics project concept combining structured business data with semantic retrieval from customer feedback.
 
-**Highlights**
-- Object detection and activity analysis
-- Multi-object tracking
-- Incident evidence and analytics dashboard
-- Municipal monitoring workflows
+**Project focus**
+- SQL-based business metric analysis.
+- Semantic search across customer feedback.
+- Hybrid retrieval for business questions.
+- Evidence-oriented answer generation.
 
-`YOLOv8` `MediaPipe` `ByteTrack` `OpenCV` `React` `Supabase`
+**Proposed technologies**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛣️ Pothole Detection System
-
-**AI for Road Infrastructure**
-
-A deep-learning system designed to identify potholes in images and video streams, supporting automated road-defect monitoring.
-
-**Highlights**
-- Image and video inference
-- Automated defect identification
-- Smart-city maintenance applications
-
-`YOLO` `Python` `OpenCV` `Deep Learning`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏋️ GymFlow Pro
-
-**Modern Gym Management Platform**
-
-A web application for gym operations, including memberships, attendance, authentication, and operational analytics.
-
-**Highlights**
-- Modern responsive interface
-- Membership and attendance workflows
-- Cloud-backed application architecture
-
-`React` `TypeScript` `Tailwind CSS` `Supabase` `Vite`
+`Python` `DuckDB` `Qdrant` `LLMs` `RAG` `FastAPI`
 
 </td>
 </tr>
@@ -115,149 +127,78 @@ A web application for gym operations, including memberships, attendance, authent
 
 ---
 
-## 🧠 Flagship AI Project — NovaCart Intelligence
+## Technical Skills
 
-### Hybrid AI Business Intelligence Assistant
-
-An AI-powered analytics assistant concept for **NovaCart, an e-commerce SaaS platform**, combining structured business data with unstructured customer feedback to answer business questions in natural language.
-
-The system routes questions to the appropriate retrieval strategy instead of forcing every query through a single data source.
-
-<table>
-<tr>
-<th>Query Mode</th>
-<th>Data Source</th>
-<th>What It Delivers</th>
-</tr>
-<tr>
-<td><strong>📊 SQL-only</strong></td>
-<td>DuckDB</td>
-<td>Revenue, subscriptions, orders, and exact business metrics with generated SQL.</td>
-</tr>
-<tr>
-<td><strong>🔎 Vector-only</strong></td>
-<td>Qdrant</td>
-<td>Customer-requested features, cancellation reasons, and recurring feedback themes.</td>
-</tr>
-<tr>
-<td><strong>🧠 Hybrid</strong></td>
-<td>DuckDB + Qdrant</td>
-<td>Combines financial changes with relevant support tickets to investigate business causes.</td>
-</tr>
-</table>
-
-### ⚡ How the Hybrid Pipeline Works
-
-1. **Understand the question** — classify the request as SQL, vector search, or hybrid.
-2. **Extract business filters** — identify region, quarter, and subscription plan.
-3. **Query structured data** — generate and execute SQL against DuckDB.
-4. **Retrieve customer context** — search Qdrant using semantic similarity and metadata filters.
-5. **Synthesize the answer** — combine verified metrics with relevant customer evidence.
-6. **Show the evidence** — return source ticket IDs and the SQL used for analysis.
-
-### 💡 Example: Why Did Enterprise Revenue Drop?
-
-**Illustrative scenario — sample figures, not verified company data.**
-
-A business user asks:
-
-> Why did our Enterprise revenue drop in the West region in Q3?
-
-**Business metrics from DuckDB**
-
-| Metric | Example result |
-|---|---:|
-| Q2 revenue | $420,000 |
-| Q3 revenue | $348,600 |
-| Revenue change | -17% |
-| Churned accounts | 6 |
-
-**Customer evidence from Qdrant**
-
-- **SSO login outage:** tickets describe enterprise administrators being locked out.
-- **Webhook latency:** customers report delayed order-sync events.
-- **Cancellation evidence:** retrieved notes help investigate whether these problems contributed to churn.
-
-**Final answer:** Revenue fell by 17% in the example scenario. The retrieved support records suggest SSO outages and webhook delays as possible contributing factors, which can be investigated against the affected accounts.
-
-**Architecture**
-
-`Business Question → Intent Router → DuckDB SQL + Qdrant Retrieval → Evidence Synthesis → Answer + Sources`
-
-**Core technologies**
-
-`Python` `DuckDB` `Qdrant` `SQL` `Embeddings` `LLMs` `RAG` `FastAPI` `React`
-
-**Engineering focus:** hybrid retrieval, metadata filtering, grounded responses, traceable SQL, and evidence-backed business insights.
-
----
-
-## 🛠️ Technical Stack
-
-<div align="center">
+### Programming Languages
+`Python` `SQL` `JavaScript` `C++`
 
 ### AI & Machine Learning
+`Machine Learning` `Deep Learning` `Computer Vision` `YOLO` `TensorFlow` `Scikit-learn` `OpenCV`
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI and machine learning technologies"/>
+### Generative AI
+`LLMs` `RAG` `Embeddings` `Vector Search` `Prompt Engineering` `LangChain` `OpenAI API`
 
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,sqlite,postgres" alt="Backend technologies"/>
+### Backend Development
+`FastAPI` `Flask` `Django` `REST APIs` `Authentication` `SQLAlchemy`
 
 ### Frontend Development
+`React` `JavaScript` `TypeScript` `HTML` `CSS` `Vite`
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind" alt="Frontend technologies"/>
+### Databases & Data
+`SQL` `SQLite` `PostgreSQL` `Pandas` `NumPy` `FAISS` `ChromaDB`
 
 ### Cloud & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vscode" alt="Cloud and developer tools"/>
-
-</div>
-
-**Additional tools:** Scikit-learn, Keras, Pandas, NumPy, SciPy, NLTK, Supabase, OpenCV, YOLO, MediaPipe, ByteTrack, RAG, embeddings, vector search, and REST APIs.
+`AWS` `Docker` `Git` `GitHub` `Linux` `VS Code`
 
 ---
 
-## 🏆 Certifications & Learning
+## Certifications & Professional Development
 
-- 🏅 IBM Data Science Professional Certificate
-- ☁️ AWS Cloud Practitioner Course
-- ☁️ AWS Cloud Fundamentals & Cloud Computing
+- IBM Machine Learning Engineer certification
+- IBM Python Developer certification
+- AWS cloud computing coursework
 
 ---
 
-## 📈 GitHub Statistics
+## Problem Solving
+
+I regularly practice data structures and algorithms to strengthen my problem-solving skills, with a focus on arrays, sliding windows, hash maps, prefix sums, and algorithmic optimization.
+
+- **LeetCode:** [View Profile](https://leetcode.com/)
+- **GitHub:** [Explore My Repositories](https://github.com/Vikaas28)
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vikaas28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vikaas28&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaas28&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaas28&layout=compact&theme=transparent&hide_border=true" alt="Most-used languages"/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikaas28&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikaas28&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🌱 What I'm Exploring
+## Current Learning Goals
 
-- Generative AI and advanced RAG architectures
-- Reliable AI systems with grounded answers and source attribution
-- Production deployment, MLOps, and cloud infrastructure
-- Computer Vision pipelines and real-time inference
-- Data-driven applications that turn business questions into actionable insights
+- Designing reliable RAG systems with relevant retrieval and grounded answers.
+- Deploying computer vision models through scalable APIs.
+- Improving AI application architecture and backend performance.
+- Exploring cloud infrastructure, Docker, and MLOps.
+- Building practical AI tools that support real-world decisions.
 
 ---
 
 <div align="center">
 
-### "Build intelligent systems. Solve meaningful problems."
-
-**Thanks for visiting my profile! Let's build something useful.**
+**Building practical AI. Engineering reliable software. Solving real-world problems.**
 
 <a href="https://github.com/Vikaas28">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  <img src="https://img.shields.io/badge/Explore%20My%20Work-GitHub-181717?style=for-the-badge&logo=github" alt="Explore my GitHub"/>
 </a>
 
 </div>
